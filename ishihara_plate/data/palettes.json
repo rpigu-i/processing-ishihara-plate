@@ -1,0 +1,68 @@
+{
+"palettes":[
+      { "id":1,
+        "bgcolour":[
+          "FFFA8072",
+          "FFFFC1C1",
+          "FFF08080"
+        ],
+        "figurecolour":[
+          "FFEEDD82",
+          "FF8B8970",
+          "FFD1D6AF",
+          "FFCDC9A5",
+          "FF9CAA94",
+          "FF9CAB9A"
+        ]
+
+      },
+      { "id":2,
+        "bgcolour":[
+          "FFEE3B3B",
+          "FFCD3333",
+          "FFA52A2A",
+          "FFA52A2B"
+        ],
+        "figurecolour":[
+           "FFF0FFF0",
+           "FF838B83",
+           "FFC1CDC1",
+           "FFCDCDC1",
+           "FF8B864E",
+           "FFCDC9A5"]
+      },
+      { "id":3,
+        "bgcolour":[
+          "FF009900",
+          "FF336600",
+          "FF33CC33",
+          "FF669933",
+          "FF99CC33",
+          "FFD1D6AF",
+          "FF2F4F4F"
+         ],
+         "figurecolour":[
+          "FFE80000",
+          "FFC80000",
+          "FF980000"
+         ]
+       },
+       { "id": 4,
+         "bgcolour":[
+           "FFC67171",
+           "FFCD3700",
+           "FFEE6363"
+         ],
+         "figurecolour":[
+           "FFF0E68C",
+           "FF8B864E",
+           "FF218868",
+           "FFC1CDC1",
+           "FF838B83",
+           "FF8FBC8F",
+           "FF698B69"
+         ]
+
+       }
+    ]
+}
