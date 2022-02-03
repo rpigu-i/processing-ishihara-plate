@@ -1,4 +1,4 @@
-#Processing Ishihara Plate
+# Processing Ishihara Plate
 
 The following Processing sketch provide a description and method for testing for deuteranopic vision.
 
@@ -11,7 +11,7 @@ These spots are divided into two groups. The first being the background coloured
 When the two sets of spots are combined they provide a colour blindness test where the patient attempts to discern the number located against the background.
 
 
-##The colour pallet
+## The colour pallet
 
 The circle background is rendered in a range of colours loaded from the colour pallet, for example a selection of shades of red. 
 The number 5 is rendered in a selection of shades of a colour a duetranope would have trouble distinguishing from the background, 
@@ -54,7 +54,7 @@ Thus we use the background colour to determine whether the area we wish to draw 
 As mentioned it is possible to change the colour palette to provide some variety to the plates drawn. The BtnMenu class handles the palette selection.
 
 
-##The menu system
+## The menu system
 
 A menu system has been added that allows a number of settings to be changed within the application. Like the Spot class this code is encapsulated within a separate class – BtnMenu.
 
@@ -80,7 +80,7 @@ Modifying the number of spots allows us to draw a circle with more or less detai
 
 
 
-##References
+## References
 
 [1] Colour Blind Awareness, (2014, November, 28). Types of Colour Blindness [Online]. Available: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/
 
