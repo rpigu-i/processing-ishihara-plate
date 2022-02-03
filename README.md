@@ -35,7 +35,7 @@ An example of the format of the JSON is displayed below:
 Here we can see the colours are stored in hexadecimal format, which should be familiar to those who work with CSS (Cascading Style Sheets).
 These colours are divided into background and figure colours (for the number 5).
 
-##Rendering the plate
+## Rendering the plate
 
 The Spot class largely handles the process of rendering the plate and is responsible for selecting colours from the chosen palette to be used on the screen.
 The main sketch passes the chosen colour pallet to the Spot class as it instantiates it and then renders the new spot object to the screen.
